@@ -4,6 +4,6 @@
 
 Basic kalman filter to estimate the velocity of a moving object (constant velocity) with position data
 
-![Velocity estimation plot](Velocity estimation plot.png)
+![Velocity estimation plot](velocity_estimation_plot.png)
 
 
